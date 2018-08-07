@@ -1,0 +1,10 @@
+a.category-badge {
+    padding: 0 8px 3px 8px;
+    border: 1px solid #2a7ae2;
+    border-radius: 15px;
+    &:hover {
+        background-color: #2a7ae2;
+        color: white;
+        text-decoration: none;
+    }
+}
