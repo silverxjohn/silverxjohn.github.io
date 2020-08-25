@@ -17,8 +17,7 @@ email: johnaldrinplata@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Everything code.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://platacode.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: silverxjohn31
+url: "silverxjohn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: silverxjohn
 permalink: /:title/
 
